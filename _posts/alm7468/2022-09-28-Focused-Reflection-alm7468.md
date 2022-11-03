@@ -13,9 +13,12 @@ Big Picture Plan: I’ll need to set up a few new functions. I’ll have to deci
 hmmm where to start…
 After asking the user to “Is this correct?”, I think I’ll put yes and no on opposite sides of the y-axis so that I can use x < 0 as Yes and x > 0 as No. 
 
-Now I have to figure out how to write the functions properly.  
+Now I have to figure out how to write the functions properly. 
+
 (But first I’ll make dinner so that I don’t tap out quickly.)  
+
 (ok actually I ate and I just want to shower and go to bed. I’ll try to build the code tomorrow.)  
+
 Note to self: I’m working in Copy of Copy of TakeYourOrder trinket.
 
 I’m looking at next week’s click related function code from the materials section of our class website. I'm reading the code to see if there's something I can use in my code.
